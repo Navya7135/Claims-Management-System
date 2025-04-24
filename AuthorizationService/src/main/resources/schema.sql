@@ -1,0 +1,8 @@
+DROP TABLE IF EXISTS User;
+ 
+CREATE TABLE User (
+ 
+  memberId VARCHAR(250) NOT NULL,
+  password VARCHAR(250) NOT NULL
+  
+);
