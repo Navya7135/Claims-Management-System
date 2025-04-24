@@ -1,6 +1,6 @@
 # Claims-Management-System
 
-This is a microservices-based Claims Management System built using Spring Boot. It enables efficient handling of member information, policies, and claim requests.
+This is a microservices-based Claims Management System built using Spring Boot and React. It includes a responsive web application that enables users to efficiently manage member information, insurance policies, and claim requests through an intuitive user interface
 
 ---
 
