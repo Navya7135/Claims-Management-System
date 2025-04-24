@@ -1,0 +1,14 @@
+com\policy\PolicyMicro\Repository\MemberPolicyRepository.class
+com\policy\PolicyMicro\Service\MemberPolicyService.class
+com\policy\PolicyMicro\Model\Policy.class
+com\policy\PolicyMicro\Model\ProviderPolicy.class
+com\policy\PolicyMicro\Service\BenefitsService.class
+com\policy\PolicyMicro\Model\JwtResponse.class
+com\policy\PolicyMicro\PolicyMicroApplication.class
+com\policy\PolicyMicro\Repository\BenefitsRepository.class
+com\policy\PolicyMicro\Service\PolicyProviderService.class
+com\policy\PolicyMicro\Model\MemberPolicy.class
+com\policy\PolicyMicro\FeignClients\AuthorizationClient.class
+com\policy\PolicyMicro\Model\Benefits.class
+com\policy\PolicyMicro\Repository\PolicyProviderRepository.class
+com\policy\PolicyMicro\Controller\PolicyController.class

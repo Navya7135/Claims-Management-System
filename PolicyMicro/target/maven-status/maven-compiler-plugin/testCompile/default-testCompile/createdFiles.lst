@@ -1,0 +1,8 @@
+com\policy\PolicyMicro\Controller\PolicyControllerTest.class
+com\policy\PolicyMicro\Model\PolicyTest.class
+com\policy\PolicyMicro\PolicyMicroApplicationTests.class
+com\policy\PolicyMicro\Model\MemberPolicyTest.class
+com\policy\PolicyMicro\Service\PolicyProviderServiceTest.class
+com\policy\PolicyMicro\Model\BenefitsTest.class
+com\policy\PolicyMicro\Model\ProviderPolicyTest.class
+com\policy\PolicyMicro\Service\MemberPolicyServiceTest.class
