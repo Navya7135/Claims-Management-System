@@ -25,6 +25,11 @@ This is a microservices-based Claims Management System built using Spring Boot. 
 - Maven
 - Git & GitHub
 - MySQL / H2
+- JSP (Java Server Pages)
+- JavaScript
+- JSTL
+- Bootstrap 4
+- HTML/CSS
 
 ---
 
